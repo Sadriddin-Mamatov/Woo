@@ -18,7 +18,7 @@ const Main = () => {
                   Get started quickly and make your way.</p>
                   <button className="btn start-btn">Start a New Store</button>
                    or
-                  <a href="#" className=""> Customize & Extend ›</a>
+                  <a href="#dawa" className="c"> Customize & Extend ›</a>
             </div>
             <div className="main-right">
                 <img src={rightImg} alt="imgr" className="imgr"/>
