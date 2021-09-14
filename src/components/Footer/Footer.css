@@ -18,3 +18,21 @@ h6{
     justify-content: space-around;
     
 }
+.da{
+    font-size:28px;
+}
+.avg{
+    text-align:center;
+}
+.logob{
+    margin: 10px;;
+}
+.bottombot{
+    padding: 12px;
+    display: flex;
+    justify-content: space-around;
+}
+.icon{
+    font-size: 25px !important;
+    margin-right: 15px;
+}

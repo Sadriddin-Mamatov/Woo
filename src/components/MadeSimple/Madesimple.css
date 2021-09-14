@@ -5,11 +5,15 @@
     color:#272D4E;
 
 }
+.madesimpleB{
+    padding-top: 40px;
+}
 .madesimple{
-
+   
     display: flex;
     justify-content: center;
-    margin-bottom: 400px;
+    /* margin-bottom: 400px; */
+    padding-top: 40px;
     
 }
 

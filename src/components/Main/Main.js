@@ -13,8 +13,8 @@ const Main = () => {
     return (
         <div className="main-kotta">
             <div className="main-left">
-                <h1>Building exactly the eCommerce website you want.</h1>
-                <p>WooCommerce is a customizable, open-source eCommerce platform built on WordPress. 
+                <span className="header">Building exactly the eCommerce website you want.</span>
+                <p className="par">WooCommerce is a customizable, open-source eCommerce platform built on WordPress. 
                   Get started quickly and make your way.</p>
                   <button className="btn start-btn">Start a New Store</button>
                    or

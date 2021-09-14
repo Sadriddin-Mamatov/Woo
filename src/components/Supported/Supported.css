@@ -2,12 +2,16 @@
     width:95%;
 
 }
+.il{
+    padding:15px;
+    background:#5F37EF;
+}
 .bottom{
     position: relative;
     top:-80%;
     display: flex;
     justify-content: space-around;
-    background:#5F37EF;
+
 
 }
 .ku{
@@ -16,7 +20,10 @@
 }
 
 .btnE{
+    margin-top: 40px;
+    background-color:#5F37EF;
     /* padding:0px 15px !important; */
+    height:50px;
     border-radius: 15px !important;
     color:#fff !important;
     border:2px solid #fff !important;

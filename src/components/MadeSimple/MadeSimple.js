@@ -19,7 +19,7 @@ import "./Madesimple.css";
 
 const MadeSimple = () => {
     return (
-        <div>
+        <div className="madesimpleB">
             <h1 className="SimpleTitle">Your eCommerce made simple</h1>
                <div className="madesimple">
             

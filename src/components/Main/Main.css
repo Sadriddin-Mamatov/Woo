@@ -71,3 +71,14 @@ p{
 .imgr{
     width:100%;
 }
+.header{
+    font-size:40px;
+    color:#272D4E;
+    font-weight: bold;
+}
+.par{
+    color:#94A2B3;
+}
+.c{
+    text-decoration: none;
+}
