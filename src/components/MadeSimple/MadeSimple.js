@@ -26,7 +26,7 @@ const MadeSimple = () => {
                 <div className="card chapda">
                     <img src={First} alt="apple" className="first"/>
                
-                    <div className="card-body1">
+                    <div className="card-body">
                         <h1 className="card-title">All You Need to Start</h1>
                         <p className="card-text">Add WooCommerce plugin to any WordPress site and set up a new store in minutes.</p>
                         <a href="#sdds" className="card-link">Ecommerce for Wordpress ›</a>
@@ -34,7 +34,7 @@ const MadeSimple = () => {
                 </div>
                 <div className="card ortada">
                     <img src={Second} alt="squ" className="second"/>
-                    <div className="card-body2">
+                    <div className="card-body">
                         <h1 className="card-title">Customize and Extend</h1>
                         <p className="card-text">From subscriptions to gym classes to luxury cars, WooCommerce is fully customizable.</p>
                         <a href="#sead" className="card-link">Browse Extensions ›</a>
@@ -42,7 +42,7 @@ const MadeSimple = () => {
                 </div>
                 <div className="card ongda">
                     <img src={Three} alt="comp" className="three"/>
-                    <div className="card-body3">
+                    <div className="card-body">
                         <h1 className="card-title">Active Community</h1>
                         <p className="card-text">WooCommerce is one of the fastest-growing eCommerce communities. </p>
                         <a href="#afsre" className="card-link">Check our Forums ›</a>
