@@ -70,7 +70,7 @@ height: 80px;
 `;
 
 export const NavLinks = styled.a`
-color: #808080;
+color: #272D4E;
 display: flex;
 align-items: center;
 text-decoration: none;

@@ -9,6 +9,7 @@ NavLinks,
 NavMenu,
 MobileIcon,
 } from './NavbarStyles';
+import {BiSearch} from "react-icons/bi"
 import Logo from "../../img/LOGO.png"
     const Navbar = () => {
 const [colorChange, setColorchange] = useState(false);
@@ -46,6 +47,10 @@ return (
 				<NavLinks href="#">Resources</NavLinks>
 				</NavItem>
 			</NavMenu>
+
+			<NavLinks href="#">Log in</NavLinks>
+			<NavLinks  href="#" className="Navlinkn">Get Started</NavLinks>
+			<BiSearch/>
 		</NavContainer>
 		</Nav>
 	</Fragment>

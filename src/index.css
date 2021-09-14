@@ -23,3 +23,11 @@ body {
 .navbar.colorChange{
   background-color: #7854F7;
 }
+.Navlinkn{
+  /* padding:2px !important;
+   */
+  height:60px !important;
+   color:#fff;
+  background: #7854F7;
+  border-radius: 15px;
+}
