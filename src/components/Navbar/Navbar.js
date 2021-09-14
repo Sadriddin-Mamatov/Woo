@@ -50,7 +50,7 @@ return (
 
 			<NavLinks href="#">Log in</NavLinks>
 			<NavLinks  href="#" className="Navlinkn">Get Started</NavLinks>
-			<BiSearch/>
+			<BiSearch className="search"/>
 		</NavContainer>
 		</Nav>
 	</Fragment>
