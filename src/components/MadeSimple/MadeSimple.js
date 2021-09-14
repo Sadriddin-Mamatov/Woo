@@ -40,14 +40,14 @@ const MadeSimple = () => {
                         <a href="#sead" className="card-link">Browse Extensions ›</a>
                     </div>
                 </div> */}
-                <div className="card ongda">
+                {/* <div className="card ongda">
                     <img src={Three} alt="comp" className="three"/>
                     <div className="card-body">
                         <h1 className="card-title">Active Community</h1>
                         <p className="card-text">WooCommerce is one of the fastest-growing eCommerce communities. </p>
                         <a href="#afsre" className="card-link">Check our Forums ›</a>
                     </div>
-                </div>
+                </div> */}
                 
             </div>
         </div>
