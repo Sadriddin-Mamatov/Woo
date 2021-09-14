@@ -23,7 +23,7 @@ const MadeSimple = () => {
             <h1 className="SimpleTitle">Your eCommerce made simple</h1>
                <div className="madesimple">
             
-                <div className="card chapda">
+                {/* <div className="card chapda">
                     <img src={First} alt="apple" className="first"/>
                
                     <div className="card-body">
@@ -31,7 +31,7 @@ const MadeSimple = () => {
                         <p className="card-text">Add WooCommerce plugin to any WordPress site and set up a new store in minutes.</p>
                         <a href="#sdds" className="card-link">Ecommerce for Wordpress ›</a>
                     </div>
-                </div>
+                </div> */}
                 <div className="card ortada">
                     <img src={Second} alt="squ" className="second"/>
                     <div className="card-body">
