@@ -22,13 +22,6 @@ const Main = () => {
             </div>
             <div className="main-right">
                 <img src={rightImg} alt="imgr" className="imgr"/>
-                {/* <img src={Girls} alt="girls" className="girls"/>
-                <img src={Oyoq} alt="Oyoq" className="Oyoq"/>
-                <img src={Stripe} alt="Stripe" className="stripe"/>
-                <img src={Group5} alt="Group5" className="Group5"/>
-                <img src={Group7} alt="Group7" className="Group7"/>
-                <img src={Group8} alt="Group8" className="Group8"/> */}
-
             </div>
         </div>
     );

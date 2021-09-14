@@ -12,7 +12,6 @@
    
     display: flex;
     justify-content: center;
-    /* margin-bottom: 400px; */
     padding-top: 40px;
     
 }
@@ -20,13 +19,9 @@
 .chapda{
     top:10%;
     width:33%;
-    /* position:absolute; */
+ 
 }
 
-/* 
-.card-body1{
-    top:100%;
-    /* position: absolute; */
 
 .card-title{
     color:#272D4E;
@@ -46,117 +41,22 @@
     text-decoration: none;  
     padding-left: 60px;
 }
-/* .apple{
-    width:20%;
-    left:5%;
-    top:25%;
-    position:absolute;
 
-
-} */
-.info{
-    width:50%;
-    top:45%;
-    left:2%;
-    position:absolute;
-    z-index: 1;
-}
 .ortada{
     margin-top:100px;
     width:33%;
-    /* position:relative; */
    
 }
-/* .card-body2{
-    top:130%;
-    position: relative;
-}*/
+
 .ongda{
     margin-top: 300px;
     width:33%;
-    position: absolute;
+    /* position: absolute; */
     
 }
-/* .card-body3{
-    top:250%;
-    position: relative;
-} */
-/* .phone{
-    top:16%;
-    left:19%;
-    width:88%;
-    position:absolute;
-} */
-/* .squ{
-    width:32%;
-    position:absolute;
-    top:3%;
-    left:18%;
-    z-index: 1;
 
-} */
-/* .square{
-    width:30%;
-    position:absolute;
-    top:65%;
-    left:25%;
-    z-index: 1;
-}
-.orta{
-    width:90%;
-    position:absolute;
-    top:7%;
-
-}
-.face{
-    width: 30%;
-    position: absolute;
-    top:35%;
-    z-index: 1;
-    left:15%;
-}
-.jetpack{
-    width:30%;
-    position: absolute;
-    top:42%;
-    left:50%;
-    z-index: 1;
-}
- .comp{
-    width:40%;
-    position: absolute;
-    top:5%;
-    left:5%;
-    z-index: 1;
-    
-} */
-
-/* .girlss{
-    width: 40%;
-    position: absolute;
-    top:80%;
-    left:60%;
-    z-index: 1;
-
-}
-.cards{
-    width:33%;
-} */
 .card{
     border:none !important;
     outline:none !important;
 }
 
-
-/* .people{
-    width: 40%;
-    position: absolute;
-    top:-30%;
-    left:65%;
-    z-index: 1;
-}
-.manl{
-    width: 90%;
-    position: absolute;
-    top:20%;
-} */
