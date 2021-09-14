@@ -1,24 +1,25 @@
-import logo from './logo.svg';
-import './App.css';
-
+import React from 'react';
+import Navbar from "./components/Navbar/Navbar";
+import Main from "./components/Main/Main";
+import MadeSimple from './components/MadeSimple/MadeSimple';
+import Develop from "./components/Develop/Develop";
+import Agency from "./components/Agency/Agency";
+import Supported from "./components/Supported/Supported";
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+       <div className="kotta">
+          <Navbar />
+          <div style={{overflowY:"scroll", height:"800px"}}><Main/></div> 
+       </div>
+       <MadeSimple/>
+    
+       <Develop/>
+       <Agency/>
+       <Supported/>
+       
+       
+    </>
   );
 }
 

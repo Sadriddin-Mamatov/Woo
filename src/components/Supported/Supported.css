@@ -1,0 +1,23 @@
+.realP{
+    width:95%;
+
+}
+.bottom{
+    position: relative;
+    top:-80%;
+    display: flex;
+    justify-content: space-around;
+    background:#5F37EF;
+
+}
+.ku{
+    width:70%; 
+    color:#fff !important;
+}
+
+.btnE{
+    /* padding:0px 15px !important; */
+    border-radius: 15px !important;
+    color:#fff !important;
+    border:2px solid #fff !important;
+}

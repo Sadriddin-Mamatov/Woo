@@ -7,7 +7,19 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.kotta{
+  background-image:url("./img/Vectornavbar.png");
+  background-position:right;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size:600px;
+  background-color: #E5E5E5;
+
+}
+.navbar{
+  background-color: transparent;
+}
+
+.navbar.colorChange{
+  background-color: blue;
 }
