@@ -5,6 +5,7 @@ import MadeSimple from './components/MadeSimple/MadeSimple';
 import Develop from "./components/Develop/Develop";
 import Agency from "./components/Agency/Agency";
 import Supported from "./components/Supported/Supported";
+import Footer from "./components/Footer/Footer";
 function App() {
   return (
     <>
@@ -17,6 +18,7 @@ function App() {
        <Develop/>
        <Agency/>
        <Supported/>
+       <Footer/>
        
        
     </>

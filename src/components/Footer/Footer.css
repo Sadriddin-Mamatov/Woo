@@ -1,0 +1,20 @@
+
+.footer{
+    background: #7854F7;
+
+}
+.fottop{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+h6{
+    color: #fff;
+}
+.fotbottom{
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-around;
+    
+}
