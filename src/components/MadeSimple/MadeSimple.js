@@ -32,14 +32,14 @@ const MadeSimple = () => {
                         <a href="#sdds" className="card-link">Ecommerce for Wordpress ›</a>
                     </div>
                 </div> */}
-                <div className="card ortada">
+                {/* <div className="card ortada">
                     <img src={Second} alt="squ" className="second"/>
                     <div className="card-body">
                         <h1 className="card-title">Customize and Extend</h1>
                         <p className="card-text">From subscriptions to gym classes to luxury cars, WooCommerce is fully customizable.</p>
                         <a href="#sead" className="card-link">Browse Extensions ›</a>
                     </div>
-                </div>
+                </div> */}
                 <div className="card ongda">
                     <img src={Three} alt="comp" className="three"/>
                     <div className="card-body">
