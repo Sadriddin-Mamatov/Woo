@@ -10,6 +10,7 @@ const Footer = () => {
                 <h6>Safe & Secure online payment</h6>
             </div>
             <div className="fotbottom">
+                <hr/>
                 <div className="1l">
                    <h6>WHO WE ARE</h6>
                    <p>About</p>
