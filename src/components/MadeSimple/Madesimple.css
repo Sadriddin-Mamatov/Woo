@@ -20,13 +20,14 @@
 .chapda{
     top:10%;
     width:33%;
-    position:absolute;
+    /* position:absolute; */
 }
 
+/* 
 .card-body1{
     top:100%;
-    position: absolute;
-}
+    /* position: absolute; */
+
 .card-title{
     color:#272D4E;
     width:90%;  
@@ -45,14 +46,14 @@
     text-decoration: none;  
     padding-left: 60px;
 }
-.apple{
+/* .apple{
     width:20%;
     left:5%;
     top:25%;
     position:absolute;
 
 
-}
+} */
 .info{
     width:50%;
     top:45%;
@@ -63,37 +64,38 @@
 .ortada{
     margin-top:100px;
     width:33%;
-    position:relative;
+    /* position:relative; */
    
 }
-.card-body2{
+/* .card-body2{
     top:130%;
     position: relative;
-}
+}*/
 .ongda{
     margin-top: 300px;
     width:33%;
-    position: absolute;;
+    position: absolute;
+    
 }
-.card-body3{
+/* .card-body3{
     top:250%;
     position: relative;
-}
-.phone{
+} */
+/* .phone{
     top:16%;
     left:19%;
     width:88%;
     position:absolute;
-}
-.squ{
+} */
+/* .squ{
     width:32%;
     position:absolute;
     top:3%;
     left:18%;
     z-index: 1;
 
-}
-.square{
+} */
+/* .square{
     width:30%;
     position:absolute;
     top:65%;
@@ -127,9 +129,9 @@
     left:5%;
     z-index: 1;
     
-}
+} */
 
-.girlss{
+/* .girlss{
     width: 40%;
     position: absolute;
     top:80%;
@@ -139,14 +141,14 @@
 }
 .cards{
     width:33%;
-}
+} */
 .card{
     border:none !important;
     outline:none !important;
 }
 
 
-.people{
+/* .people{
     width: 40%;
     position: absolute;
     top:-30%;
@@ -157,4 +159,4 @@
     width: 90%;
     position: absolute;
     top:20%;
-}
+} */
